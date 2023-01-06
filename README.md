@@ -1,1 +1,1 @@
-# Inventory Platform
+# Serverless Typescript Boilerplate

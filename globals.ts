@@ -5,4 +5,4 @@
   - environment variable names
   - standard names for AWS resources
 */
-export const ServiceName = 'inventory-platform';
+export const ServiceName = 'sample-service';
